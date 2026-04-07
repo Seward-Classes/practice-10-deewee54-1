@@ -1,0 +1,90 @@
+# C++ Build Artifacts
+*.o
+*.obj
+*.exe
+*.out
+*.app
+main
+program
+autograder
+
+# Executables (Windows)
+*.exe
+*.com
+*.bat
+*.cmd
+
+# Executables (Unix/Linux/macOS)
+*.out
+*.app
+
+# Object Files
+*.o
+*.obj
+*.ko
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Debug Files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Build Directories
+build/
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+
+# Test and Temporary Files
+test_output/
+temp/
+*.tmp
+*.temp
+
+# Autograder Test Files (will be created in ignored folder)
+test_files/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Package Files
+*.tar.gz
+*.zip
+*.rar
+
+# Log Files
+*.log
+
+# Backup Files
+*.bak
+*.backup
