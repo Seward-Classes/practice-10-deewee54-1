@@ -1,6 +1,5 @@
 /*
-AI Usage Disclosure:
-I used ChatGPT to help generate and understand parts of this assignment.
+AI was used in the progress of making this code by fixing errors and corrections.
 */
 
 #include <iostream>
