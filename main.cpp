@@ -1,5 +1,5 @@
 /*
-AI was used in the progress of making this code by fixing errors and corrections.
+AI was used in the production of this code my fixing error and mistakes.
 */
 
 #include <iostream>
